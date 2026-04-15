@@ -1,3 +1,10 @@
+## 🧪 Project Demo
+- Parallel execution across multiple VMs using Selenium Grid
+- Distributed browser execution using RemoteWebDriver
+
+- ## 📸 Execution Flow
+Test → Hub → Node → Browser Execution
+
 # 🚀 Selenium Grid Automation Framework
 
 ## 📌 Project Overview
@@ -12,6 +19,13 @@ This project demonstrates a distributed Selenium automation framework using Sele
 - TestNG for parallel execution
 
 ---
+
+## 📁 Project Structure
+src/
+ ├── test/java
+ ├── test/resources
+ ├── pom.xml
+ └── testng.xml
 
 ## ⚙️ Tech Stack
 - Java
