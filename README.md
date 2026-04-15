@@ -38,3 +38,7 @@ This project demonstrates a distributed Selenium automation framework using Sele
 ### 1. Start Hub
 ```bash
 java -jar selenium-server.jar hub
+
+java -jar selenium-server.jar node --hub http://<hub-ip>:4444
+
+Right click → Run as TestNG Suite
