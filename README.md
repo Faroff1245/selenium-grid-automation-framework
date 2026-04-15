@@ -1,3 +1,5 @@
+> Distributed Selenium Grid framework enabling parallel execution across multiple VMs using TestNG.
+
 # 🚀 Selenium Grid Automation Framework
 
 ## 📌 Project Overview
